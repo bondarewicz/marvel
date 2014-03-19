@@ -1,6 +1,6 @@
 App = Ember.Application.create({});
 
-var api_key = "2e14a11f2b56be7a8aba0882c8c0a5f8";
+var api_key = "__KEY_HERE__";
 
 /*var posts = [{
   id: '1',
